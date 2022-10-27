@@ -19,7 +19,7 @@
  }
  .title-propio:hover{
     color: rgb(89, 170, 143);
-    
+
  }
  
  .btn-propio{
@@ -58,3 +58,11 @@ p{
     margin-bottom: 200px;
 }
 
+.card-propia{
+    background-color: rgba(117, 135, 136, 0.616);
+}
+
+.animation:hover{
+    margin-right: 15px;
+    transform: scale(2);
+    transition: all 1s;
