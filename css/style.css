@@ -9,15 +9,17 @@
 }
 .nav-propio{
     background-color: rgb(39, 38, 38);
-    opacity: 6;
+    opacity: 4;
 }
  .title-propio{
     color: rgb(55, 235, 175);
     margin-right: 200px;
     font-size: 30px;
+    
  }
  .title-propio:hover{
     color: rgb(89, 170, 143);
+    
  }
  
  .btn-propio{
@@ -32,6 +34,11 @@ background-color: rgb(39, 38, 38);
 }
 
 h1{
+    font-family: 'Alegreya', serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant', serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Playfair Display SC', serif;
     color: aquamarine;
     text-align: center;
     margin-bottom: 100px;
@@ -41,3 +48,13 @@ p{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.dis-propio{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}
+
+.img-1{
+    margin-bottom: 200px;
+}
+
