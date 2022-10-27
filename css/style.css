@@ -4,21 +4,23 @@
 }
 
 .body{
-    background: rgb(87,190,227);
-    background: radial-gradient(circle, rgba(87,190,227,1) 0%, rgba(17,17,18,1) 100%);
+    background: rgb(26,55,77);
+    background: radial-gradient(circle, rgba(26,55,77,1) 0%, rgba(17,17,18,1) 100%);
 }
 .nav-propio{
-    background-color: rgb(39, 38, 38);
+    background: rgb(26,55,77);
+background: radial-gradient(circle, rgba(26,55,77,1) 0%, rgba(17,17,18,1) 100%);
     opacity: 4;
 }
  .title-propio{
-    color: rgb(55, 235, 175);
+    color: #A5C9CA;
     margin-left: 35px;
     font-size: 40px;
     
  }
  .title-propio:hover{
     color: rgb(89, 170, 143);
+    margin-top: 20px;
 
  }
  
@@ -26,11 +28,11 @@
 background-color: rgb(39, 38, 38);
  }
  .link-propio{
-    color: aquamarine;
+    color: #B1D0E0;
  }
 
 .link-propio:hover{
-    color: rgb(89, 170, 143);
+    color: #6998AB;
 }
 
 h1{
@@ -39,19 +41,26 @@ h1{
     font-family: 'Cormorant', serif;
     font-family: 'Nanum Myeongjo', serif;
     font-family: 'Playfair Display SC', serif;
-    color: aquamarine;
+    color: #A5C9CA;
     text-align: center;
     margin-bottom: 100px;
+    font-size: 100px;
 }
+h2{
+color: #7D9D9C;
+}
+
 p{
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;
+    color: #7D9D9C;
 }
 .dis-propio{
     text-align: center;
-    margin-top: 200px;
-    margin-bottom: 300px;
+    margin-top: 300px;
+    margin-bottom: 600px;
+    font-size: 120px;
 }
  ul li{
     list-style: none;
@@ -60,10 +69,10 @@ p{
     font-size: 20px;
  }
 .img-1{
-    margin-bottom: 200px;
+    margin-bottom: 300px;
 }
 
 .card-propia{
-    background-color: rgba(117, 135, 136, 0.616);
+    background-color: #6998ab57;
 }
 
