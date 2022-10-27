@@ -13,8 +13,8 @@
 }
  .title-propio{
     color: rgb(55, 235, 175);
-    margin-right: 200px;
-    font-size: 30px;
+    margin-left: 35px;
+    font-size: 40px;
     
  }
  .title-propio:hover{
@@ -53,7 +53,12 @@ p{
     margin-top: 200px;
     margin-bottom: 300px;
 }
-
+ ul li{
+    list-style: none;
+    margin-left: 170px;
+    margin-top: 50px;
+    font-size: 20px;
+ }
 .img-1{
     margin-bottom: 200px;
 }
