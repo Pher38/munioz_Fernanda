@@ -62,7 +62,3 @@ p{
     background-color: rgba(117, 135, 136, 0.616);
 }
 
-.animation:hover{
-    margin-right: 15px;
-    transform: scale(2);
-    transition: all 1s;
