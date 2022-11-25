@@ -24,7 +24,6 @@
 
 .title-propio:hover {
   color: #88b1c5;
-  margin-top: 20px;
 }
 
 .btn-propio {
@@ -63,15 +62,12 @@ p {
   margin-bottom: 50px;
   color: #7D9D9C;
   text-align: left;
-  
-  
-  
 }
 
 .dis-propio {
   text-align: center;
   margin-top: 300px;
-  margin-bottom: 600px;
+  margin-bottom: 400px;
   font-size: 120px;
 }
 
@@ -83,7 +79,7 @@ ul li {
 }
 
 .img-1 {
-  margin-bottom: 70px;
+  margin-bottom: 40px;
 }
 
 .card-propia {
@@ -100,20 +96,23 @@ h5 {
   margin-bottom: 50px;
   margin-top: 50px;
   font-family: 'Alegreya', serif;
-
 }
+
 .texto-prin{
-  font-size: 36px;
+  font-size: 30px;
   text-align: center;
   font-family: 'Cinzel', serif;
-
 }
 
-.foot-propio{
-  text-align: center;
-  color:#A5C9CA ;
+.gif{
+  margin-left: 710px;
+  margin-top: 20px;
 }
-.foot-propio:hover{
-  color: #7D9D9C;
+
+.h5{
+  color: #3582a8;
+  font-size: 30px;
+  font-family: 'Nanum Myeongjo', serif;
 }
+
 /*# sourceMappingURL=style.css.map */
